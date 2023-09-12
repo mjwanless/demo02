@@ -1,1 +1,2 @@
 Hello from Malcolm
+Goodbye from Malcolm
